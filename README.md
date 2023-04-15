@@ -6,7 +6,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- Começei a estudar sobre Desenvolvimento no final de 2019
+- I started to study about Development at the end of 2019
 - 🏦 Analysis and systems development - UNOPAR 2022
 - 💻 backend software developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
