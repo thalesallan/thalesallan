@@ -9,7 +9,7 @@
 - Começei a estudar sobre Desenvolvimento no final de 2019
 - 🏦 Student Analysis and systems development - UNOPAR 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 .NET C#, JavaScript, CSS, HTML, Pyhton
+- 💻 .NET C#, Java
 
 ---
 
